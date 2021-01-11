@@ -2,9 +2,13 @@
 Aşağıda verilen kodları terminalden kurmanız gerekmektedir. Aksi takdirde çalışmaz
 
 -> npm i instagram-web-api
+
 -> npm install path
+
 -> npm install fs
+
 -> npm install canvas
+
 -> node time.js   (Bütün saat dakika ve saniyeleri jpg formatında oluşturacaktır. Komutu çalıştırdıktan sonra işlen 1-2 dakika sürebilir)
 
 
